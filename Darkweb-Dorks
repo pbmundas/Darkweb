@@ -1,0 +1,196 @@
+# Darkweb-Dorks
+List of dorks for searching for valueable Threat Intelligence across all onion sites. I am not be responsible for any misuse of these dorks and they are just to increase knowledge and awareness. Thanks for understanding.
+
+Here are categorized dark web dorks that can be useful for OSINT, threat intelligence, and monitoring cybercriminal activities. These queries are crafted for use in search engines that index dark web content, such as Ahmia, DarkSearch.io, OnionLand, or custom-built scrapers.  
+
+---
+
+## 🔴 **Data Breaches & Leaks**  
+```
+site:*.onion "database dump"
+site:*.onion "leaked database"
+site:*.onion "SQL dump"
+site:*.onion "data breach"
+site:*.onion "breach compilation"
+site:*.onion "confidential data"
+site:*.onion "customer records"
+site:*.onion "sensitive information"
+site:*.onion "company database leaked"
+site:*.onion "PII leak"
+site:*.onion "SSN exposed"
+site:*.onion "passport leak"
+site:*.onion "national ID dump"
+site:*.onion "email and password leak"
+site:*.onion "personal information database"
+site:*.onion "hacked government database"
+site:*.onion "leaked financial records"
+site:*.onion "stolen healthcare data"
+site:*.onion "internal company documents"
+site:*.onion "payroll data leaked"
+site:*.onion "corporate espionage leak"
+```
+
+---
+
+## 🔴 **Credentials & Password Dumps**  
+```
+site:*.onion "password dump"
+site:*.onion "email:password"
+site:*.onion "username list"
+site:*.onion "plaintext passwords"
+site:*.onion "login credentials"
+site:*.onion "stolen credentials"
+site:*.onion "leaked login"
+site:*.onion "credential stuffing"
+site:*.onion "combo list"
+site:*.onion "email combo"
+site:*.onion "password hashes"
+site:*.onion "md5 password"
+site:*.onion "sha256 password"
+site:*.onion "dehashed passwords"
+site:*.onion "stolen account details"
+site:*.onion "social media credentials"
+site:*.onion "corporate login dump"
+site:*.onion "C-level email leak"
+site:*.onion "admin credentials leaked"
+site:*.onion "gov credentials dump"
+```
+
+---
+
+## 🔴 **Ransomware Leak Sites**  
+```
+site:*.onion "ransom note"
+site:*.onion "ransomware leak site"
+site:*.onion "stolen company data"
+site:*.onion "victim list"
+site:*.onion "data posted"
+site:*.onion "data release"
+site:*.onion "ransom gang"
+site:*.onion "double extortion"
+site:*.onion "leak site"
+site:*.onion "stolen database for sale"
+site:*.onion "ransomware operation"
+site:*.onion "pay or leak"
+site:*.onion "lockbit data dump"
+site:*.onion "ragnar locker leak"
+site:*.onion "blackcat ransomware"
+site:*.onion "conti ransomware leak"
+site:*.onion "ransom negotiation"
+site:*.onion "ransom demand"
+site:*.onion "hacked data release"
+site:*.onion "victim payment"
+```
+
+---
+
+## 🔴 **Hacking Forums & Cybercrime**  
+```
+site:*.onion "hacking forum"
+site:*.onion "cracking forum"
+site:*.onion "cybercrime discussion"
+site:*.onion "how to hack"
+site:*.onion "hacker for hire"
+site:*.onion "SQL injection tutorial"
+site:*.onion "DDoS service"
+site:*.onion "exploit development"
+site:*.onion "buy exploit"
+site:*.onion "carding forum"
+site:*.onion "malware development"
+site:*.onion "android RAT"
+site:*.onion "botnet service"
+site:*.onion "RDP hacking"
+site:*.onion "website deface"
+site:*.onion "deep web hacking"
+site:*.onion "tor hacking group"
+site:*.onion "telegram hacking group"
+site:*.onion "credit card dumps"
+```
+
+---
+
+## 🔴 **Exploit & Vulnerability Research**  
+```
+site:*.onion "zero-day exploit"
+site:*.onion "CVE-202*"
+site:*.onion "privilege escalation"
+site:*.onion "buffer overflow"
+site:*.onion "remote code execution"
+site:*.onion "PoC exploit"
+site:*.onion "RCE vulnerability"
+site:*.onion "working exploit"
+site:*.onion "0day for sale"
+site:*.onion "APT malware"
+site:*.onion "hacking tools"
+site:*.onion "metasploit module"
+site:*.onion "persistence mechanism"
+site:*.onion "exploit chain"
+site:*.onion "Windows privilege escalation"
+site:*.onion "Linux local exploit"
+site:*.onion "Android hacking"
+site:*.onion "malware builder"
+site:*.onion "AV bypass"
+```
+
+---
+
+## 🔴 **Financial Fraud & Carding**  
+```
+site:*.onion "credit card dump"
+site:*.onion "stolen CC"
+site:*.onion "carding forum"
+site:*.onion "buy CVV"
+site:*.onion "fullz for sale"
+site:*.onion "bank logins"
+site:*.onion "PayPal logs"
+site:*.onion "bank drops"
+site:*.onion "BTC cashout"
+site:*.onion "bank account hack"
+site:*.onion "money laundering service"
+site:*.onion "fake ID service"
+site:*.onion "check cashing"
+site:*.onion "cashout method"
+site:*.onion "Zelle logs"
+site:*.onion "gift card generator"
+site:*.onion "stolen PayPal accounts"
+site:*.onion "fraud bible"
+```
+
+---
+
+## 🔴 **Dark Web Marketplaces**  
+```
+site:*.onion "marketplace"
+site:*.onion "drugs for sale"
+site:*.onion "firearms market"
+site:*.onion "fake passports"
+site:*.onion "ID card for sale"
+site:*.onion "credit card shop"
+site:*.onion "deep web store"
+site:*.onion "darknet vendor"
+site:*.onion "anonymous escrow"
+site:*.onion "buy BTC anonymously"
+site:*.onion "weapon sale"
+site:*.onion "underground shop"
+site:*.onion "counterfeit currency"
+site:*.onion "stolen electronics"
+```
+
+---
+
+## 🔴 **OSINT & Threat Actor Tracking**  
+```
+site:*.onion "threat actor group"
+site:*.onion "underground forum"
+site:*.onion "darknet research"
+site:*.onion "malware intelligence"
+site:*.onion "APT activity"
+site:*.onion "cybercrime actor"
+site:*.onion "ransomware gang"
+site:*.onion "underground hacking group"
+site:*.onion "threat analysis"
+```
+
+---
+
+These dorks are useful for gathering intelligence, tracking cyber threats, and monitoring malicious activities. 
